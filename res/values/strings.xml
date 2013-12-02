@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HaloShortcuts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- Shortcut Finished Adding -->
+    <string name="system_shortcut_success">Shortcut Added Successfully!</string>
+    <string name="system_shortcut_fail">No Shortcut Selected</string>
+    
+	<!-- Get Intent -->
+	<string name="get_intent_unlaunchable">This is not a launchable app. Shortcut cannot be created.</string>
+	<string name="get_intent_error">An unknown error has occurred.\n</string>
+	<string name="get_intent_unable">Unable to add shortcut.\n</string>
+	
+	<!-- App info dialog -->
+	<string name="dialog_title">Creating Shortcut</string>
+	<string name="dialog_name">Shortcut Name</string>
+	<string name="dialog_error_image">Unable to retrieve custom icon.\n</string>
+</resources>
